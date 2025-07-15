@@ -1,5 +1,10 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
-body{
-    background: white;
+.list-group-item{
+    border: 0px;
+    
+}
+
+#palo, #numero{
+    padding-bottom: 70px;
 }
